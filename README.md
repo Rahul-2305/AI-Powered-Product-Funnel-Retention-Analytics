@@ -2,6 +2,8 @@
 
 A Streamlit dashboard that combines product analytics, ML-based churn prediction, and AI-generated insights to help product teams understand user behaviour across the full acquisition-to-retention funnel.
 
+**link :** https://ai-powered-pro-dashboard-br.streamlit.app/
+
 ## ✨ Features
 
 - **Product Funnel** — Visual funnel from App Visits → Signups → Onboarding → Purchase → Repeat Purchase
